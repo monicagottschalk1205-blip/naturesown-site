@@ -282,3 +282,6 @@ footer .brand img{height:70px}
 .card .ph.icoph svg{width:72px;height:72px;fill:none;stroke:var(--green-text);stroke-width:1.1;stroke-linecap:round;stroke-linejoin:round}
 .card .ph{overflow:hidden}
 .card .ph img{filter:saturate(1.1) contrast(1.04) brightness(1.03);transform:scale(1.15)}
+html{overflow-x:hidden}
+.reviews{overflow:hidden}
+.story .sub{text-wrap:balance}
