@@ -128,7 +128,7 @@ header.solid .burger span{background:var(--ink)}
 /* ---------- DEPARTMENTS ---------- */
 .depts{background:var(--green-light)}
 .head{text-align:center;margin-bottom:50px}
-.dgrid{display:grid;grid-template-columns:repeat(4,1fr);gap:22px}
+.dgrid{display:grid;grid-template-columns:repeat(3,1fr);gap:22px}
 .card{background:transparent;border:1px solid #111;border-radius:16px;overflow:hidden;transition:.3s;display:block}
 
 .card .ph{height:170px;border-bottom:1px solid #111;transition:.5s}
